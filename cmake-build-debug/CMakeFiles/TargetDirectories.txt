@@ -1,0 +1,3 @@
+C:/Users/shaked/Desktop/matam/hw2/cmake-build-debug/CMakeFiles/ex22.dir
+C:/Users/shaked/Desktop/matam/hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shaked/Desktop/matam/hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

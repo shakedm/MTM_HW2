@@ -1,0 +1,7 @@
+system_5
+2
+challenge_1  11  1
+bhallenge_2  22  2
+2
+room_1  2  11 22
+room_2  1  11

@@ -1,0 +1,17 @@
+system_2
+10
+challenge_1  11  2
+challenge_2  22  3
+challenge_3  33  1
+challenge_4  44  1
+challenge_5  55  1
+challenge_6  66  2
+challenge_7  77  1
+challenge_8  88  2
+challenge_9  99  2
+challenge_10 10  1
+4
+room_1  1  22
+room_2  10 11 22 33 44 55 66 77 88 99 10
+room_3 	3  11 22 33
+room_4  4  55  66  77 88
